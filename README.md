@@ -1,4 +1,4 @@
-> Exifimg 📷
+Exifimg 📷
 
 A lightweight, open-source EXIF metadata viewer
 نمایشگر سبک و متن‌باز متادیتای EXIF تصاویر
